@@ -420,6 +420,14 @@ header.sticky {
     border-radius: 50%;
 }
 
+.row:hover .layer.hide {
+    height: 0%;
+}
+
+.row:hover img.hide {
+    transform: scale(1);
+}
+
 .contact {
     background-color: var(--second-bg-color);
     display: grid;
