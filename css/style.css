@@ -368,7 +368,7 @@ header.sticky {
     border-radius: 8px;
     display: block;
     transition: transform 0.5s;
-    object-fit: cover;
+    object-fit: contain;
     object-position: top;
 }
 
